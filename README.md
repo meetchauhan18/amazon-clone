@@ -17,7 +17,7 @@ License
 # Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/meetchauhan18/amazon-clone.git
 
 3. Open the project directory:
    cd amazon-clone
